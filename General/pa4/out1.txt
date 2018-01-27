@@ -1,0 +1,17 @@
+UCD
+Name             Age  Gender   ID        College          GPA     Grade
+John Jones       22   M        813       Engineering      1.45    D    
+Sally Baker      34   F        850       Science          1.89    C-   
+Mike Baker       34   M        Error:ID  Science          0.194   F    
+Cefani Vy        34   F        801       Culinary         3.95    A    
+Charles Bollig   26   M        829       Engineering      2.72    B-   
+Molly Bollig     26   M        829       Engineering      2.72    B-   
+Andrew Bollig    26   M        829       Engineering      2.16    C    
+
+METRO STATE
+Name             Age  Gender   ID        College          GPA     Grade
+Sara Smith       21   F        811       English          3.22    B+   
+
+UNIDENTIFIED UNIVERSITY
+Name             Age  Gender   ID        College          GPA     Grade
+Sally Baker      34   N/A      Error:ID  Science          1.89    C-   

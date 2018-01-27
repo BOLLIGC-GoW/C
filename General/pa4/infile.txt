@@ -1,0 +1,61 @@
+John Jones,22,Male,UCD,Engineering,813
+HW1,15/20
+Hw2,22/25
+HW3,18/20
+
+M1,47/50
+P1,42/50
+
+Sally Baker,34,None,Arkanasa,Science,900
+HW1,2/20
+Hw2,4/25
+HW3,1/20
+M1,49/50
+P1,22/50
+
+Sara Smith,21,Female,Metro State,English,811
+HW1,14/20
+Hw2 ,17/25
+HW3,16/20
+M1,42/50
+P1,44/50
+
+Sally Baker,34,Female,UCD,Science,850
+
+HW1,2/20
+Hw2,4/25
+HW3,1/20
+M1,49/50
+
+P1,22/50
+
+Mike Baker,34,Male,UCD,Science,900
+HW1,2/20
+Hw2,5/25
+HW3,1/20
+M1,0/50
+P1,0/50
+Cefani Vy,34,Female,UCD,Culinary,801
+HW1,18/20
+Hw2,25/25
+
+HW3,20/20
+M1,50/50
+P1,50/50
+Charles Bollig,26,Male,UCD,Engineering,829
+HW1,18/20
+Hw2,22/25
+HW3,2/20
+M1,20/50
+P1,50/50
+Molly Bollig,26,Male,UCD,Engineering,829
+HW1,18/20
+Hw2,22/25
+HW3,2/20
+M1,20/50
+P1,50/50
+Andrew Bollig,26,Male,UCD,Engineering,829
+HW1,18/20
+Hw2,22/25
+HW3,2/20
+M1,20/50

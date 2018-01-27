@@ -1,0 +1,9 @@
+UCD
+Name             Age  Gender   ID        College          GPA     Grade
+John Jones       22   M        813       Engineering      3       B+   
+
+METRO STATE
+Name             Age  Gender   ID        College          GPA     Grade
+
+UNIDENTIFIED UNIVERSITY
+Name             Age  Gender   ID        College          GPA     Grade
